@@ -1,0 +1,15 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="120" height="120" fill="white"/>
+<path d="M93 37L78 52H93V37Z" fill="#A67E5B"/>
+<rect x="27" y="32" width="15" height="20" fill="#2D3040"/>
+<rect x="27" y="54" width="15" height="17" fill="#2D3040"/>
+<rect x="44" y="54" width="15" height="5" fill="#2D3040"/>
+<path d="M44 64H49C54.5228 64 59 68.4772 59 74V79C59 84.5228 54.5228 89 49 89H44V64Z" fill="#2D3040"/>
+<path d="M27 73H42V89H37C31.4772 89 27 84.5228 27 79V73Z" fill="#2D3040"/>
+<path d="M61 64C61 58.4772 65.4772 54 71 54H76V71H61V64Z" fill="#2D3040"/>
+<path d="M78 54H93V63H87C82.0294 63 78 58.9706 78 54V54Z" fill="#2D3040"/>
+<path d="M78 67H83C88.5228 67 93 71.4772 93 77V79C93 84.5228 88.5228 89 83 89H78V67Z" fill="#2D3040"/>
+<path d="M61 73H76V89H71C65.4772 89 61 84.5228 61 79V73Z" fill="#2D3040"/>
+<path d="M44 32H49C54.5228 32 59 36.4772 59 42V52H44V32Z" fill="#2D3040"/>
+<path d="M61 32H66C71.5228 32 76 36.4772 76 42V52H61V32Z" fill="#2D3040"/>
+</svg>
